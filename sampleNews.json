@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 28,
+    "articles": [
+        {
+            "source": {
+                "id": "australian-financial-review",
+                "name": "Australian Financial Review"
+            },
+            "author": "Max Mason",
+            "title": "Richard White cancels Tech Council appearances amid sex-for-investment legal stoush",
+            "description": "The WiseTech chief executive is winding back his duties as a leader of Australia’s peak technology industry body.",
+            "url": "http://www.afr.com/technology/richard-white-cancels-tech-council-appearances-amid-legal-stoush-20241013-p5khui",
+            "urlToImage": "https://static.ffx.io/images/$zoom_0.3624%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_565%2C$y_265/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_exclusive_no_age_social_wm/e59aa0a8edc7f60e37929b4061bc9410afb4473a",
+            "publishedAt": "2024-10-13T18:02:00Z",
+            "content": "Software billionaire Richard White will step aside from public duties as a representative of Australias high-profile technology industry body amid a legal battle with his alleged former lover.\r\nThe s… [+240 chars]"
+        },
+        {
+            "source": {
+                "id": "crypto-coins-news",
+                "name": "Crypto Coins News"
+            },
+            "author": null,
+            "title": "Palantir AI Model Will Shape UK Military Strategy, but Experts Warn of Cybersecurity Risks",
+            "description": "U.S. tech company Palantir has developed an AI model which will be used by the UK military to help conduct a major review.",
+            "url": "https://www.ccn.com/news/technology/palantir-ai-model-will-shape-uk-military-strategy-but-experts-warn-of-cybersecurity-risks/",
+            "urlToImage": "https://www.ccn.com/wp-content/uploads/2024/10/file-1-8.webp",
+            "publishedAt": "2024-10-13T16:22:28Z",
+            "content": "Key Takeaways<ul><li>A custom-made AI model by U.S. tech firm Palantir will be used within the British military’s Strategic Defense Review.</li><li>The integration of AI into the review has received … [+3293 chars]"
+        },
+        {
+            "source": {
+                "id": "crypto-coins-news",
+                "name": "Crypto Coins News"
+            },
+            "author": null,
+            "title": "What Researchers Behind OpenAI's Foundational Framework Are Doing Today?",
+            "description": "The transformer architecture revolutionized AI. What happened to the Google researchers who first proposed the technology?",
+            "url": "https://www.ccn.com/news/technology/what-researchers-behind-openai-do-today/",
+            "urlToImage": "https://www.ccn.com/wp-content/uploads/2024/10/ai-architects-openai-founders-scaled.webp",
+            "publishedAt": "2024-10-13T15:56:08Z",
+            "content": "Key Takeaways\r\n<ul><li>In 2017 Attention Is All You Need proposed a new neural network design known as the transformer architecture.</li><li>The paper helped catalyze an AI revolution, and the transf… [+8831 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-13T15:38:07Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-13T15:13:07Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": null,
+            "title": "The Verge",
+            "description": "The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.",
+            "url": "http://www.theverge.com/",
+            "urlToImage": "https://cdn.vox-cdn.com/uploads/chorus_asset/file/23966628/the_verge_social_share.png",
+            "publishedAt": "2024-10-13T14:52:27.2021681Z",
+            "content": "Anthropics CEO has many, many, many thoughts about AGI.\r\nIn a long blog post, Anthropic CEO Dario Amodei considers the upside of artificial general intelligence (AGI, or as he prefers to call it, pow… [+395 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "2024-10-13T12:54:27+00:00",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "crypto-coins-news",
+                "name": "Crypto Coins News"
+            },
+            "author": null,
+            "title": "Crypto and AI Can Improve Cybersecurity, but Will Decentralization Halt Big Tech's Dominance?",
+            "description": "Some experts believe that the integration of crypto technology into AI could help move towards a decentralized and open future.",
+            "url": "https://www.ccn.com/news/technology/crypto-and-ai-can-improve-cybersecurity-but-will-decentralization-halt-big-techs-dominance/",
+            "urlToImage": "https://www.ccn.com/wp-content/uploads/2024/10/file-1-7.webp",
+            "publishedAt": "2024-10-12T09:42:22Z",
+            "content": "Key Takeaways<ul><li>The rapid rise of AI is raising concerns about BigTech’s dominance over the technology.</li><li>Blockchain technology could play a role in the future decentralization of AI.</li>… [+4366 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Deep-Tech-Startups: Deutschlands Weg zurück zur Weltspitze!",
+            "description": "Zwei MIT-Forscher erklären, warum hierzulande die Zeichen auf Deep Tech stehen – und inwiefern Deep-Tech-Startups eher Delfinen ähneln, als Unicorns.",
+            "url": "https://www.businessinsider.de/gruenderszene/perspektive/zwei-mit-forscher-verraten-so-kann-deutschland-mit-deep-tech-wieder-zur-weltspitze-gehoeren/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/10/202410_GS_Artikel_BostonMIT_1800x1200-1.jpg?ver=1728548002",
+            "publishedAt": "2024-10-11T06:00:00+00:00",
+            "content": "Zwölf Monate vor der Bundestagswahl positionieren sich sowohl der mächtige Bundesverband der Deutschen Industrie (BDI) als auch der Startup-Verband mit Forderungen an die nächste Bundesregierung. Ver… [+817 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Karim El Hadj, Elisa Bellanger, Marceau Bretonnier et Elsa Longueville",
+            "title": "Vidéo. Donald Trump et la rhétorique : les secrets de sa méthode pour convaincre les électeurs",
+            "description": "Vidéo - Pour convaincre les Américains de voter pour lui, Donald Trump utilise des techniques de langage très efficaces. « Le Monde » a analysé les discours du candidat républicain avec le soutien d’un linguiste pour comprendre comment il convainc son public.",
+            "url": "https://www.lemonde.fr/international/video/2024/10/11/donald-trump-et-la-rhetorique-le-secret-de-ses-methodes-pour-convaincre-les-electeurs_6348697_3210.html",
+            "urlToImage": "https://img.lemde.fr/2024/10/07/57/84/1746/1164/1440/960/60/0/d92fe51_1728296991542-thumbnail-trump-rhetorique-sirius-copie.jpg",
+            "publishedAt": "2024-10-11T04:30:04Z",
+            "content": "Donald Trump a un secret pour convaincre les électeurs de voter pour lui et battre Kamala Harris à la présidentielle américaine en 2024. Lors de ses prises de parole, il emploie des phrases courtes c… [+1529 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-post",
+                "name": "Financial Post"
+            },
+            "author": "Bloomberg News",
+            "title": "Scion of Canada's richest family looks to grow AI investments",
+            "description": "Thomvest Ventures is looking for more AI deals as global companies adopt the technology to enhance productivity and security. Read more.",
+            "url": "https://financialpost.com/technology/canada-richest-family-ai-bets",
+            "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/10/1011-bc-ai.jpg",
+            "publishedAt": "2024-10-10T12:23:15Z",
+            "content": "Thomvest Ventures led a US$32.1 million round in AI-powered data governance platform Relyance AI\r\nAuthor of the article:\r\nPeople check their phones as AMECA, an AI robot, looks on at the All In artif… [+5847 chars]"
+        },
+        {
+            "source": {
+                "id": "gruenderszene",
+                "name": "Gruenderszene"
+            },
+            "author": null,
+            "title": "Fintech Solaris entlässt ein Drittel der Belegschaft",
+            "description": "Weil die Verluste zu groß sind, trennt sich Solaris nun von hunderten Mitarbeitern. Das Fintech strebt an, 2024 profitabel zu werden.",
+            "url": "https://www.businessinsider.de/gruenderszene/fintech/fintech-solaris-entlaesst-ein-drittel-der-belegschaft-und-heizt-boersengang-spekulationen-an/",
+            "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/10/399877-5_Solarisbank-46ae8c-original-1629880468-scaled.jpg?ver=1728553192",
+            "publishedAt": "2024-10-10T10:07:09+00:00",
+            "content": "Weil die Verluste zu groß sind, trennt sich Solaris nun von hunderten Mitarbeitern die bisher größte Entlassungswelle des Fintechs.Im Berliner Fintech Solaris steht erneut eine große Entlassungswelle… [+4804 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "The American Who Waged a Tech War on China",
+            "description": "China is racing to unseat the United States as the world’s technological superpower. Not if Jake Sullivan can help it.",
+            "url": "https://www.wired.com/story/jake-sullivan-china-tech-profile/",
+            "urlToImage": "https://media.wired.com/photos/6706b71e702ff9d188601297/191:100/w_1280,c_limit/Voss-Sullivan34FINAL_social.jpg",
+            "publishedAt": "2024-10-10T10:00:00Z",
+            "content": "There were times when even Sullivanwho, despite his gravitas, occasionally dips into Midwestern aw-shucksismscouldnt believe the life he was living. His first time in the Situation Room, he has said,… [+3500 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Forristal",
+            "title": "Bye-bye bots: Altera's game-playing AI agents get backing from Eric Schmidt | TechCrunch",
+            "description": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI Research company Altera raised $9 million to build AI agents that can play video games alongside other player…",
+            "url": "https://techcrunch.com/2024/05/08/bye-bye-bots-alteras-game-playing-ai-agents-get-backing-from-eric-schmidt/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+            "publishedAt": "2024-05-08T15:14:57Z",
+            "content": "Autonomous, AI-based players are coming to a gaming experience near you, and a new startup, Altera, is joining the fray to build this new guard of AI agents.\r\nThe company announced Wednesday that it … [+6416 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm and Theresa Loconsolo",
+            "title": "$450M for Noname, two billion-dollar rounds, and good news for crypto startups | TechCrunch",
+            "description": "This morning on Equity, not only do we have good news for crypto founders, we're also digging into Akamai spending $450 million for API security firm Noname, and billion dollar deals from Wiz and Wayve.",
+            "url": "https://techcrunch.com/2024/05/08/450m-for-noname-two-billion-dollar-rounds-and-good-news-for-crypto-startups/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-942480316.jpg?resize=1200,835",
+            "publishedAt": "2024-05-08T15:01:51Z",
+            "content": "Good news, crypto founders: Venture capital activity is picking up in your sector after falling to multi-year lows in late 2023. Put another way, venture folks appear more web3-bullish than before, e… [+1599 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Uber promises member exclusives as Uber One passes $1B run-rate | TechCrunch",
+            "description": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions.  “You will see",
+            "url": "https://techcrunch.com/2024/05/08/uber-promises-member-exclusives-as-uber-one-passes-1b-run-rate/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1142304853-a.jpg?resize=1200,675",
+            "publishedAt": "2024-05-08T14:41:36Z",
+            "content": "Uber plans to deliver more perks to Uber One members, like member-exclusive events, in a bid to gain more revenue through subscriptions. \r\nYou will see more member-exclusives coming up where members … [+4676 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Mike Butcher",
+            "title": "Checkfirst raises $1.5M pre-seed, applying AI to remote inspections and audits | TechCrunch",
+            "description": "Checkfirst enables businesses to schedule inspectors based on geographical location and qualifications, in addition to allowing for remote inspections.",
+            "url": "https://techcrunch.com/2024/05/08/checkfirst-raises-1-5m-pre-seed-applying-ai-to-remote-inspections-and-audits/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Checkfirst-team.jpg?w=960",
+            "publishedAt": "2024-05-08T13:02:12Z",
+            "content": "Weve all seen them. The inspector with a clipboard, walking around a building, ticking off the last time the fire extinguishers were checked, or if all the lights are working. They work in the TICC (… [+3279 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Paul Sawers",
+            "title": "UK challenger bank Monzo nabs another $190M as US expansion beckons | TechCrunch",
+            "description": "Monzo has raised another $190 million, as the challenger bank looks to expand its presence internationally — particularly in the U.S.",
+            "url": "https://techcrunch.com/2024/05/08/uk-challenger-bank-monzo-nabs-another-190m-at-5-2b-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-1259121938-e1715164252704.jpg?resize=1200,676",
+            "publishedAt": "2024-05-08T12:34:05Z",
+            "content": "Monzo has raised another £150 million ($190 million), as the challenger bank looks to expand its presence internationally particularly in the U.S.\r\nThe new round comes just two months after Monzo rai… [+1960 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Brian Heater",
+            "title": "iRobot names former Timex head Gary Cohen as CEO | TechCrunch",
+            "description": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive,",
+            "url": "https://techcrunch.com/2024/05/08/irobot-names-former-timex-head-gary-cohen-as-ceo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/Screenshot-2024-05-08-at-7.19.50 AM.jpg?resize=1200,919",
+            "publishedAt": "2024-05-08T12:22:30Z",
+            "content": "iRobot Tuesday announced the successor to longtime CEO, Colin Angle. Gary Cohen, who previous held chief executive role at Timex and Qualitor Automotive, will be heading up the company, marking a maj… [+2120 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Google Deepmind debuts huge AlphaFold update and free proteomics-as-a-service web app | TechCrunch",
+            "description": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of",
+            "url": "https://techcrunch.com/2024/05/08/google-deepmind-debuts-huge-alphafold-update-and-free-proteomics-as-a-service-web-app/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/05/alphafold-3-deepmind.jpg?resize=1200,675",
+            "publishedAt": "2024-05-07T22:10:14Z",
+            "content": "Google Deepmind has taken the wraps off a new version AlphaFold, their transformative machine learning model that predicts the shape and behavior of proteins. AlphaFold 3 is not only more accurate, b… [+7069 chars]"
+        }
+    ]
+}
