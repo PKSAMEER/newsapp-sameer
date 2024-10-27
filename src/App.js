@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div>
-      <Router basename='/'>
+      <Router basename='/newsapp-sameer'>
         <NavBar />
         <LoadingBar
           color='#FFFFFF'
