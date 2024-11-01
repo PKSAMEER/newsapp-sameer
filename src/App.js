@@ -31,7 +31,7 @@ const App = () => {
           <Route path="/" element={<News setProgress={setProgress} key="general" pageSize={pageSize} country="us" category="general" />} />
           <Route path="/newsapp-sameer" element={<News setProgress={setProgress} key="general" pageSize={pageSize} country="us" category="general" />} />
           <Route path="/business" element={<News setProgress={setProgress} key="business" pageSize={pageSize} country="us" category="business" />} />
-          <Route path="/entertainment" element={<News setProgress={setProgress} key="entertainment" pageSize={pageSize} country="us" category="entertainment" />} />
+          <Route path="/entertainment" element={<News setProgress={setProgress} key="entertainment" pageSize={pageSize} country="us" category="entertainments" />} />
           <Route path="/general" element={<News setProgress={setProgress} key="gen" pageSize={pageSize} country="us" category="general" />} />
           <Route path="/health" element={<News setProgress={setProgress} key="health" pageSize={pageSize} country="us" category="health" />} />
           <Route path="/science" element={<News setProgress={setProgress} key="science" pageSize={pageSize} country="us" category="science" />} />
