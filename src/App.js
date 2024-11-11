@@ -5,7 +5,7 @@ import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Routes,
   Navigate,
@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div>
-      <Router basename='{process.env.PUBLIC_URL}'>
+      <Router basename='/'>
         <NavBar />
         <LoadingBar
           color='#FFFFFF'
