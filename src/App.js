@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div>
-      <Router basename='/'>
+      <Router>
         <NavBar />
         <LoadingBar
           color='#FFFFFF'
