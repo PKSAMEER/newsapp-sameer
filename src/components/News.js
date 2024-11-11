@@ -12,7 +12,7 @@ const News = (props) => {
     const [loading, setLoading] = useState(false)
     const [page, setPage] = useState(1)
     const [totalResults, setTotalResults] = useState(0)
-    const [apiKey, setApiKey] = useState(process.env.REACT_APP_NEWS_API_KEY)
+    const apiKey = process.env.REACT_APP_NEWS_API_KEY;
 
     const capitalizeFirstLetter = (string) => {
         return string.charAt(0).toUpperCase() + string.slice(1);
@@ -36,7 +36,7 @@ const News = (props) => {
     }, [])
 
     const fetchMoreData = async () => {
-        setPage(page + 1)
+        setPage(page + 1);
         const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&apiKey=${apiKey}&page=${page}&pageSize=${props.pageSize}`;
         let data = await fetch(url);
         let jsonData = await data.json()
