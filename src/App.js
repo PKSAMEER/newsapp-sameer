@@ -5,7 +5,7 @@ import News from './components/News';
 import LoadingBar from 'react-top-loading-bar'
 
 import {
-  HashRouter as Router,
+  BrowserRouter as Router,
   Route,
   Routes,
   Navigate,
@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div>
-      <Router>
+      <Router basename="/newsapp-sameer">
         <NavBar />
         <LoadingBar
           color='#FFFFFF'
@@ -37,6 +37,7 @@ const App = () => {
           <Route path="/science" element={<News setProgress={setProgress} key="science" pageSize={pageSize} country="us" category="science" />} />
           <Route path="/sports" element={<News setProgress={setProgress} key="sports" pageSize={pageSize} country="us" category="sports" />} />
           <Route path="/technology" element={<News setProgress={setProgress} key="technology" pageSize={pageSize} country="us" category="technology" />} />
+          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </Router>
     </div>
