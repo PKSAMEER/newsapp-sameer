@@ -37,7 +37,6 @@ const App = () => {
           <Route path="/science" element={<News setProgress={setProgress} key="science" pageSize={pageSize} country="us" category="science" />} />
           <Route path="/sports" element={<News setProgress={setProgress} key="sports" pageSize={pageSize} country="us" category="sports" />} />
           <Route path="/technology" element={<News setProgress={setProgress} key="technology" pageSize={pageSize} country="us" category="technology" />} />
-          <Route path="*" element={<Navigate to="/" />} />
         </Routes>
       </Router>
     </div>
