@@ -20,7 +20,7 @@ const App = () => {
 
   return (
     <div>
-      <Router basename='/'>
+      <Router basename='{process.env.PUBLIC_URL}'>
         <NavBar />
         <LoadingBar
           color='#FFFFFF'
