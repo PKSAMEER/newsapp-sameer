@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/newsapp-sameer/static/css/main.e6c13ad2.css",
-    "main.js": "/newsapp-sameer/static/js/main.762086df.js",
+    "main.js": "/newsapp-sameer/static/js/main.d75336fd.js",
     "static/js/453.b2157c12.chunk.js": "/newsapp-sameer/static/js/453.b2157c12.chunk.js",
     "static/media/loading.gif": "/newsapp-sameer/static/media/loading.efc393276ef5c7364517.gif",
     "index.html": "/newsapp-sameer/index.html",
     "main.e6c13ad2.css.map": "/newsapp-sameer/static/css/main.e6c13ad2.css.map",
-    "main.762086df.js.map": "/newsapp-sameer/static/js/main.762086df.js.map",
+    "main.d75336fd.js.map": "/newsapp-sameer/static/js/main.d75336fd.js.map",
     "453.b2157c12.chunk.js.map": "/newsapp-sameer/static/js/453.b2157c12.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.762086df.js"
+    "static/js/main.d75336fd.js"
   ]
 }
